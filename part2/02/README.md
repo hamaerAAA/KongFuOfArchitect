@@ -218,4 +218,4 @@ public void updateEl(Element el) {
 
 ​	运行结果如下图![](./img/Snipaste_2020-07-12_23-16-15.png)
 
-​	
+[代码实现](./code/ElementLinkedList.java)	
