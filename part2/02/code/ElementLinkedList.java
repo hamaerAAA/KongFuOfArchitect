@@ -1,4 +1,3 @@
-package com.nari.s6000;
 
 public class ElementLinkedList {
 	Element head =new Element("", 0, 0);
