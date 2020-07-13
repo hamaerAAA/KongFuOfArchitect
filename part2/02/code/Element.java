@@ -1,5 +1,3 @@
-package com.nari.s6000;
-
 public class Element{
 	   public String heroName;
 	   public int heroAge;
